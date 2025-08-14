@@ -1,5 +1,5 @@
 import gradio as gr
-from utils import get_video_id, fetch_transcript, chunk_text, create_faiss_index
+from utilsold import get_video_id, fetch_transcript, chunk_text, create_faiss_index
 from langchain_community.llms import HuggingFacePipeline
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
