@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+
+# Audio/video downloads
+*.mp4
+*.webm
+*.wav
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Secrets
+.env

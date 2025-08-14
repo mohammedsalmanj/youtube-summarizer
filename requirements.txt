@@ -1,0 +1,29 @@
+# Gradio for UI
+gradio>=3.50.0
+
+# LangChain core and community modules
+langchain>=0.3.27
+langchain-community>=0.0.27
+
+# HuggingFace transformers and Torch
+transformers>=4.40.0
+torch>=2.1.0
+sentence-transformers>=2.2.2
+safetensors>=0.3.0
+accelerate>=0.22.0
+
+# FAISS for vector store
+faiss-cpu>=1.7.4
+
+# YouTube transcript API
+youtube-transcript-api>=1.2.2
+
+# yt-dlp for downloading videos
+yt-dlp>=2024.10.22
+
+# Faster Whisper for fallback transcription
+faster-whisper>=1.2.0
+
+
+# Extra helpers
+numpy>=1.27.0
